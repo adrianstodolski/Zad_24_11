@@ -1,0 +1,18 @@
+zadania na zajęcia które odbedą się 24,11
+
+
+
+Zadania są z książki "Doing math with Python" (można znaleźć w niej kilka podpowiedzi)
+Uwaga do wszystkich zadań. Osie wykresu powinny być opisane a wykres poniżeniem mieć tytuł.
+
+Zadanie 1
+Napisz program, który będzie rysował wykres funkcji kwadratowej(y=ax^2+bx+c). Program ma pobrać od użytkownika wartości a,b,c
+
+Zadanie 2
+Napisz program, który będzie rysował trajektorie lotu w rzucie ukośnym. Program ma pobrać od użytkownika: ile rzutów będzie rozpatrywał, prędkość początkową i kąt każdego rzutu. Program powinien móc również narysować na jednym wykresie kilka trajektorii lotu (dla rzutów z różna prędkością i kątem).  
+
+Zadanie 3
+Napisz program, który będzie tworzył wykres słupkowy reprezentujący wydatki na poszczególne kategorie (np. jedzenie, rozrywka, komunikacja, itp.) program ma pobrać od użytkownika ilość kategorii, powinien pobrać nazwy tych kategorii i ilość pieniędzy, która została wydana na ten cel. Osie wykresu powinny być opisane a wykres poniżeniem nieć tytuł. 
+
+Zadanie 4
+Napisz program, który będzie tworzył wykres "złotego podziału" dla n (n ma podać użytkownik) liczb z ciągu Fibonacciego (1,1,2,3,5,8,13,21,…).W tym ciągu kolejny wyraz powstaje poprze zsumowanie dwóch poprzednich. Wykres ma przedstawiać iloraz wyrazu y(n) =n/(n-1).
